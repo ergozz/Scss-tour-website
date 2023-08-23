@@ -1,5 +1,3 @@
-# scss-tour-website
+# scss-tour-website 
 
-![][def]
-
-[def]: tour.gif
+![](tour.gif)
